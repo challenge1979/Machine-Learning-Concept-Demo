@@ -1,0 +1,5 @@
+{
+  "name": "Machine Learning Model Concept Demo",
+  "description": "An interactive educational tool to visualize and understand one-variable quadratic regression (polynomial regression) using Drug Dosage vs. Blood Pressure data.",
+  "requestFramePermissions": []
+}
